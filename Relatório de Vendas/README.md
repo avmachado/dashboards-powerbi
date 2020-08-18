@@ -12,7 +12,7 @@ As perguntas para elaborar o relatório foram:
 
 4.  Qual segmento tem maior influência no valor médio de venda? 
 
-Antes de responder a essas perguntas, é necessário que façamos o upload do arquivo em excel disponível nesta pasta. 
+Antes de responder a essas perguntas, é necessário que façamos o upload do arquivo em excel (.xlsx) disponível nesta pasta. 
 Em seguida, foi realizado um tratamento nos dados (remoção de duplicatas) e criação da Star Schema para montar o esquema de relacionamentos, importante etapa para o Power BI conseguir relacionar os dados de diferentes tabelas.
 
 A partir daí podemos responder às perguntas. Acesse o arquivo em PDF para visualizar a Dashboard completa, com todos os visuais. 
