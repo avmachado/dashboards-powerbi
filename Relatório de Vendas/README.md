@@ -1,6 +1,6 @@
 # Dashboard de Vendas
 
-Esta Dashboard foi realizado como exercício do curso da [Data Science Academy](https://www.datascienceacademy.com.br/) (Power BI para Data Science 2.0).
+Esse Dashboard foi realizado como exercício do curso da [Data Science Academy](https://www.datascienceacademy.com.br/) (Power BI para Data Science 2.0).
 
 As perguntas para elaborar o relatório foram:
 
