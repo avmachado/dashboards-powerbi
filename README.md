@@ -7,3 +7,4 @@ Em cada pasta está uma Dashboard diferente, junto com um README.md explicando m
 ### Projetos
 - [Dashboard de Vendas](https://github.com/avmachado/dashboards-powerbi/tree/master/Relat%C3%B3rio%20de%20Vendas)
 - [Vendas - Sales Enterprise](https://github.com/avmachado/dashboards-powerbi/tree/master/Vendas%20-%20Sales%20Enterprise)
+- [Operadora de Plano de Saúde](https://github.com/avmachado/dashboards-powerbi/tree/main/Operadora%20de%20Plano%20de%20Sa%C3%BAde)
