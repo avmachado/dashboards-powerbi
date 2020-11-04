@@ -1,4 +1,4 @@
-# Dashboard de Vendas
+# Operadora de Plano de Saúde
 
 Esse Dashboard foi realizado como desafio do curso da [Data Science Academy](https://www.datascienceacademy.com.br/) (Power BI para Data Science 2.0).
 
